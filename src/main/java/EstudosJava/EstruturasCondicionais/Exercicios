@@ -1,0 +1,16 @@
+Exercícios de Estruturas Condicionais em Java
+Básico
+•	Verificação de Idade: Escreva um programa que leia a idade de uma pessoa e exiba se ela é maior de idade (18 anos ou mais) ou menor de idade.
+•	Par ou Ímpar: Crie um programa que leia um número inteiro e determine se ele é par ou ímpar.
+•	Positivo, Negativo ou Zero: Escreva um programa que leia um número e exiba se ele é positivo, negativo ou zero.
+•	Nota Escolar: Leia uma nota (0 a 10) e exiba o conceito correspondente (A, B, C, D, F) usando if-else.
+Intermediário
+•	Calculadora Simples: Implemente uma calculadora que leia dois números e um operador (+, -, *, /) e exiba o resultado da operação.
+•	Ano Bissexto: Escreva um programa que determine se um ano é bissexto ou não.
+•	Classificação de Triângulos: Leia três comprimentos de lados e determine se eles formam um triângulo equilátero, isósceles ou escaleno.
+•	Verificação de Senha: Implemente um programa que leia uma senha e verifique se ela é válida de acordo com critérios definidos (mínimo de 8 caracteres, pelo menos uma letra maiúscula, uma letra minúscula e um número).
+Avançado
+•	Classificação de Alunos: Crie um programa que leia a nota de quatro alunos e classifique-os de acordo com a média (Aprovado, Recuperação, Reprovado).
+•	Sistema de Votação: Desenvolva um sistema de votação que leia a idade e a nacionalidade do usuário e determine se ele pode votar (maior de 16 anos e brasileiro).
+•	Sistema de Login: Implemente um sistema de login que leia um nome de usuário e senha e verifique se são válidos, permitindo até três tentativas antes de bloquear o acesso.
+•	Controle de Estoque: Escreva um programa que leia o nome e a quantidade de produtos em estoque e determine se é necessário fazer um novo pedido (se a quantidade estiver abaixo de um limite definido).

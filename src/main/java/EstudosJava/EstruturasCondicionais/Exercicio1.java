@@ -1,4 +1,4 @@
-package EstudosJava.EstruturasCondicionais.Basico;
+package EstudosJava.EstruturasCondicionais;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Exercicio1 {
         System.out.println("Informe a idade: ");
         idade = entrada.nextInt();
 
-        if (idade >= 18) {
+        if (idade >= 18) { // caso false ai caira no else
             System.out.println("Maior de idade");
         }
         else {
